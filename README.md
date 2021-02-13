@@ -1,7 +1,7 @@
 # OCGraphLib
 OpenComputers Graphing Library  
 
-Made/Tested for lua 5.3, May/May not work on other versions of lua
+Made/Tested for lua 5.3, May/May not work on other versions of lua.  
 May still be buggy, but should be good enough for usage.  
 Examples are in `examples/`  
 Requires my `subpixel3` library (included)
